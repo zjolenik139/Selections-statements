@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "selection selection statement", "selection selection statement\selection selection statement.csproj", "{B887C90C-1226-47E4-90D8-7C0673FECC7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B887C90C-1226-47E4-90D8-7C0673FECC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B887C90C-1226-47E4-90D8-7C0673FECC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B887C90C-1226-47E4-90D8-7C0673FECC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B887C90C-1226-47E4-90D8-7C0673FECC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52CE937F-E6CF-496F-B0E1-4629F99B2EAE}
+	EndGlobalSection
+EndGlobal

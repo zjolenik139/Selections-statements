@@ -1,0 +1,14 @@
+C:\Users\zjole\Desktop\repos\selection statement exercise\selection selection statement\selection selection statement\obj\Debug\netcoreapp3.1\selection selection statement.csproj.AssemblyReference.cache
+C:\Users\zjole\Desktop\repos\selection statement exercise\selection selection statement\selection selection statement\obj\Debug\netcoreapp3.1\selection selection statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zjole\Desktop\repos\selection statement exercise\selection selection statement\selection selection statement\obj\Debug\netcoreapp3.1\selection selection statement.AssemblyInfoInputs.cache
+C:\Users\zjole\Desktop\repos\selection statement exercise\selection selection statement\selection selection statement\obj\Debug\netcoreapp3.1\selection selection statement.AssemblyInfo.cs
+C:\Users\zjole\Desktop\repos\selection statement exercise\selection selection statement\selection selection statement\obj\Debug\netcoreapp3.1\selection selection statement.csproj.CoreCompileInputs.cache
+C:\Users\zjole\Desktop\repos\selection statement exercise\selection selection statement\selection selection statement\bin\Debug\netcoreapp3.1\selection selection statement.exe
+C:\Users\zjole\Desktop\repos\selection statement exercise\selection selection statement\selection selection statement\bin\Debug\netcoreapp3.1\selection selection statement.deps.json
+C:\Users\zjole\Desktop\repos\selection statement exercise\selection selection statement\selection selection statement\bin\Debug\netcoreapp3.1\selection selection statement.runtimeconfig.json
+C:\Users\zjole\Desktop\repos\selection statement exercise\selection selection statement\selection selection statement\bin\Debug\netcoreapp3.1\selection selection statement.runtimeconfig.dev.json
+C:\Users\zjole\Desktop\repos\selection statement exercise\selection selection statement\selection selection statement\bin\Debug\netcoreapp3.1\selection selection statement.dll
+C:\Users\zjole\Desktop\repos\selection statement exercise\selection selection statement\selection selection statement\bin\Debug\netcoreapp3.1\selection selection statement.pdb
+C:\Users\zjole\Desktop\repos\selection statement exercise\selection selection statement\selection selection statement\obj\Debug\netcoreapp3.1\selection selection statement.dll
+C:\Users\zjole\Desktop\repos\selection statement exercise\selection selection statement\selection selection statement\obj\Debug\netcoreapp3.1\selection selection statement.pdb
+C:\Users\zjole\Desktop\repos\selection statement exercise\selection selection statement\selection selection statement\obj\Debug\netcoreapp3.1\selection selection statement.genruntimeconfig.cache
